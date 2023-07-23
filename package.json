@@ -1,5 +1,5 @@
 {
-  "name": "grupa-6-filmoteka",
+  "name": "group-project-filmoteka",
   "version": "1.1.0",
   "description": "",
   "homepage": "https://katarzynacependa.github.io/group-project-filmoteka/",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katarzynacependa/grupa-6-filmoteka.git"
+    "url": "git+https://github.com/katarzynacependa/group-project-filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
