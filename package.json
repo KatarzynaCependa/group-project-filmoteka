@@ -1,17 +1,17 @@
 {
-  "name": "grupa-6-filmoteka",
+  "name": "group-project-filmoteka",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://agata-zybula.github.io/grupa-6-filmoteka/",
+  "homepage": "https://katarzynacependa.github.io/group-project-filmoteka/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /grupa-6-filmoteka/",
+    "build": "parcel build src/*.html --public-url /group-project-filmoteka/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agata-zybula/grupa-6-filmoteka.git"
+    "url": "git+https://github.com/katarzynacependa/group-project-filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
